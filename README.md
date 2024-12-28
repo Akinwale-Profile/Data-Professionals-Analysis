@@ -1,5 +1,7 @@
+
 # Exploring trends and insights among data professionals
 
+![Screenshot (178)](https://github.com/user-attachments/assets/779e3f5c-ad9f-4b58-b362-109c440cb2ce)
 
 ## Problem statement
 
